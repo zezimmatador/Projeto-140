@@ -1,20 +1,52 @@
-body {
-    background-position: center;
-    background-size: cover;
-}
-
-.heading {
+.heading
+{
     font-size: 23px;
     width: 100%;
     margin: 0px;
 }
 
-#status {
-    font-size: 18px;
+.note
+{
+    font-size: 15px;
+    color: black;
 }
 
-canvas {
-
-    box-shadow: 10px 10px 10px lightseagreen;
-    border-radius: 10px;
+body
+{
+    background-size: cover;
 }
+
+.div_speed
+{
+    float: left;
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 23px;
+    margin:15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 23px;
+    margin:15px;
+}
+
